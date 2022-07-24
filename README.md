@@ -3,3 +3,9 @@ SQL (aka Structured Query Language) is a programming language used for managing 
 A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database
 A database most often contains one or more tables.
 Tables contain records (rows) with data.
+Data is stored facts
+Information is that which informs, i.e. that from which data can be derived
+Database
+★ Stores organized information
+★ Data are extracted from information
+★ Knowledge is derived from data
